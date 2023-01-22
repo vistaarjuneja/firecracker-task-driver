@@ -1,4 +1,4 @@
-module github.com/cneira/firecracker-task-driver
+module github.com/vistaarjuneja/firecracker-task-driver
 
 go 1.18
 
